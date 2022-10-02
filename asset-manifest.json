@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a3c7d8f7.css",
+    "main.js": "/static/js/main.6a06fa77.js",
+    "static/media/herya.webp": "/static/media/herya.820541fbff35d0ded8db.webp",
+    "index.html": "/index.html",
+    "main.a3c7d8f7.css.map": "/static/css/main.a3c7d8f7.css.map",
+    "main.6a06fa77.js.map": "/static/js/main.6a06fa77.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3c7d8f7.css",
+    "static/js/main.6a06fa77.js"
+  ]
+}
